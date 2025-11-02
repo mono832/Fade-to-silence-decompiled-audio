@@ -6,5 +6,5 @@ This audio is the property of Black Forest Games \& THQ Nordic. If they have any
 
 
 
-VGM steam, was used to convert alot of the audio
+VGM stream, was used to convert alot of the audio
 
